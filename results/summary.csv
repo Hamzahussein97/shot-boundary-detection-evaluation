@@ -1,0 +1,5 @@
+category,method,n_videos,mean_f1,median_f1,std_f1
+Ad,PySceneDetect,13,0.706795,0.652174,0.136103
+Ad,TransNetV2,13,0.730132,0.714286,0.128095
+Carton,PySceneDetect,13,0.739464,0.782609,0.239137
+Carton,TransNetV2,13,0.840956,0.842105,0.093080
